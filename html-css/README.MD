@@ -3,7 +3,6 @@
 * Color
 
   * https://coolors.co/
-
   * https://designmodo.com/create-color-scheme/
   * https://medium.com/help-scout/the-psychology-of-color-in-marketing-and-branding-ebb2320a2b0#.ptl6ae2i0
   * http://flatuicolors.com/
