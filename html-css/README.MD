@@ -7,6 +7,7 @@
   * https://medium.com/help-scout/the-psychology-of-color-in-marketing-and-branding-ebb2320a2b0#.ptl6ae2i0
   * http://flatuicolors.com/
   * https://uigradients.com/#RoseWater
+  * https://color.adobe.com/create/color-wheel/
 
 * Fonts
 
@@ -38,7 +39,15 @@
   * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
   * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 
+* Design Methodologies/Languages
+  * https://material.io/
+  * http://designguidelines.co/
+  
 * Other
+
+
+   
+    
 
   * http://www.coverr.co/
   * https://slicejack.com/fullscreen-html5-video-background-css/
