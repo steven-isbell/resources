@@ -31,23 +31,35 @@
 * Design Inspiration
 
   * https://www.awwwards.com/
+  * http://strml.net/
 
 * Positioning
 
+  * https://flexboxzombies.com/courses/
   * https://www.w3schools.com/css/css_positioning.asp
   * http://flexboxfroggy.com/
   * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
   * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 
 * Design Methodologies/Languages
+
   * https://material.io/
   * http://designguidelines.co/
-  
+
 * Other
 
+  * https://css-tricks.com/clipping-masking-css/
 
-   
-    
+  * http://howtocenterincss.com/#contentType=text&content.text.lines=2&container.width=100pct&horizontal=center&vertical=middle&browser.IE=none
+
+  * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
   * http://www.coverr.co/
   * https://slicejack.com/fullscreen-html5-video-background-css/
+
+  * http://www.brandx.net/support/websites/bootstrap/bootstrap-cheat-sheet.html
+
+  * https://codepen.io/
+
+  * https://tympanus.net/codrops/
+  * http://flukeout.github.io/
