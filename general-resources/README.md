@@ -17,6 +17,10 @@
   * [Stack Overflow job board](https://stackoverflow.com/jobs)
   * [Github jobs board](https://jobs.github.com/)
 
+  * [Front-end Job Interview Questions] (https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
+
+  * [How to write a good developer resume in 2017] (https://medium.freecodecamp.org/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9)
+
 * Misc Resources:
 
   * [JQuery cheat sheet](https://oscarotero.com/jquery/)
@@ -26,8 +30,12 @@
 
   * [Hipster Ipsum, for when Latin just won't do](https://hipsum.co/?paras=4&type=hipster-centric)
 
+  * [List of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)
+
 * Learning Resources:
 
   * [DevMountain Lecture Videos](https://docs.google.com/spreadsheets/d/1p9EzVLEFGf5Q40oL4gWrRyfPO_DTKO3VIDOT3ZQFvtI/edit#gid=1832617554)
 
   * [General DevMountain Resource Page](https://resources.devmountain.com/#/)
+
+  * [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)

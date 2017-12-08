@@ -15,3 +15,12 @@
 * Git cheat sheet
 
   * https://www.git-tower.com/blog/git-cheat-sheet/
+
+* Git - What to do when things go wrong?
+  
+  * https://github.com/k88hudson/git-flight-rules
+
+* Semantic Commit Messages
+
+  * https://seesparkbox.com/foundry/semantic_commit_messages
+
