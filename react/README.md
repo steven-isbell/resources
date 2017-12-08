@@ -9,3 +9,6 @@
 * react-animations by FormidableLabs
   * A collection of animations that can be used with any inline style library
   * https://github.com/FormidableLabs/react-animations
+
+* Learn Redux for free from its creator Dan Abramov
+  * https://egghead.io/redux
