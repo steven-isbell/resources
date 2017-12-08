@@ -40,6 +40,7 @@
   * http://flexboxfroggy.com/
   * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
   * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+  * http://cssgridgarden.com/
 
 * Design Methodologies/Languages
 
@@ -64,3 +65,18 @@
 
   * https://tympanus.net/codrops/
   * http://flukeout.github.io/
+
+  * HTMLreference.io - free visual guide to HTML
+    * http://htmlreference.io/
+
+  * CSSreference.io - free visual guide to CSS
+    * http://cssreference.io/
+
+  * Awesome CSS - A collection of awesome CSS libraries, tools, frameworks and software
+    * https://github.com/ikkou/awesome-css
+
+  * The Front-End Checklist for modern websites
+    * https://frontendchecklist.io/
+
+  * Bootstrap 4 Cheat Sheet
+    * https://hackerthemes.com/bootstrap-cheatsheet/
