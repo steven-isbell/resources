@@ -39,13 +39,21 @@
   * https://www.w3schools.com/css/css_positioning.asp
   * http://flexboxfroggy.com/
   * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  * [Learn Flexbox with Wes Bos](https://flexbox.io/)
   * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
   * http://cssgridgarden.com/
+  
 
 * Design Methodologies/Languages
 
   * https://material.io/
   * http://designguidelines.co/
+
+
+* Animation
+
+  * [Hover.css - A collection of CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
+    
 
 * Other
 
@@ -65,17 +73,18 @@
   * https://tympanus.net/codrops/
   * http://flukeout.github.io/
 
-  * HTMLreference.io - free visual guide to HTML
-    * http://htmlreference.io/
+  * [HTMLreference.io - free visual guide to HTML](http://htmlreference.io/)
 
-  * CSSreference.io - free visual guide to CSS
-    * http://cssreference.io/
+  * [CSSreference.io - free visual guide to CSS](http://cssreference.io/)
 
-  * Awesome CSS - A collection of awesome CSS libraries, tools, frameworks and software
-    * https://github.com/ikkou/awesome-css
+  * [Awesome CSS - A collection of awesome CSS libraries, tools, frameworks and software](https://github.com/ikkou/awesome-css)
 
-  * The Front-End Checklist for modern websites
-    * https://frontendchecklist.io/
+  * [The Front-End Checklist for modern websites](https://frontendchecklist.io/)
 
-  * Bootstrap 4 Cheat Sheet
-    * https://hackerthemes.com/bootstrap-cheatsheet/
+  * [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+
+  * [CSSstats - visualize various stats about your css](http://www.cssstats.com)
+
+  * [Coverr.co - beautiful, free videos for your homepage](https://coverr.co/)
+  
+  * [Code My UI - web design inspiration](https://codemyui.com/)

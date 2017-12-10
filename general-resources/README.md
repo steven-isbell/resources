@@ -15,15 +15,21 @@
   * [Hired](https://hired.com/)
 
   * [Stack Overflow job board](https://stackoverflow.com/jobs)
+
   * [Github jobs board](https://jobs.github.com/)
 
-  * [Front-end Job Interview Questions] (https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
+  * [Authentic Jobs](https://authenticjobs.com/)
 
-  * [How to write a good developer resume in 2017] (https://medium.freecodecamp.org/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9)
+  * [Whitetruffle - Anonymous matching with thousands of companies](https://www.whitetruffle.com/)
+
+  * [Front-end Job Interview Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
+
+  * [How to write a good developer resume in 2017](https://medium.freecodecamp.org/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9)
 
 * Misc Resources:
 
   * [JQuery cheat sheet](https://oscarotero.com/jquery/)
+  
   * [Fake data to play with](https://mockaroo.com/)
 
   * [See what your website looks like rendered among all major browsers](http://browsershots.org/)
