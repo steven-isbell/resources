@@ -7,6 +7,7 @@
 * Big-O
 
   * http://bigocheatsheet.com/
+  * Plain English Explanation of Big-O --> https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation
   * Big-O Comparison (Big-O-1.png)
   * Big-O Graph Comparison (big-oh-graph.png)
 
