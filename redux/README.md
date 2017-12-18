@@ -3,6 +3,7 @@
 * Basics
 
   * [Redux Documentation](https://redux.js.org/)
+  * [Redux With React Documentation](https://redux.js.org/docs/basics/UsageWithReact.html)
   * [Redux - Dan Abramov Egghead Course](https://egghead.io/redux)
   * [What Does Redux Do?](https://daveceddia.com/what-does-redux-do/)
 
