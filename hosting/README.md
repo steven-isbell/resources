@@ -4,16 +4,16 @@
 
 * Heroku
 
-  * https://github.com/DevMountain/deployment-heroku
-  * https://vimeo.com/154365993
+  * [Heroku Deployment](https://github.com/DevMountain/deployment-heroku)
+  * [DevMountain Video Walkthrough](https://vimeo.com/154365993)
 
 * Digital Ocean
 
-  * https://github.com/DevMountain/Hosting-React-Digital-Ocean
-  * https://vimeo.com/154365993
+  * [Hosting a React App on DO](https://github.com/DevMountain/Hosting-React-Digital-Ocean)
+  * [DevMountain Video Walkthrough](https://vimeo.com/154365993)
 
 * AWS
 
 * Zeit
-  * https://github.com/DevMountain/Hosting-React-Zeit
-  * https://zeit.co/docs
+  * [Hosting a React App on Zeit](https://github.com/DevMountain/Hosting-React-Zeit)
+  * [Zeit Docs](https://zeit.co/docs)

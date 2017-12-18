@@ -1,23 +1,19 @@
 # REACT Resources
 
 * Component Libraries
-	* http://www.awesome-react-native.com/
+
+  * [React-Native Components](http://www.awesome-react-native.com/)
 
 * Styling
-	* http://www.material-ui.com/
-	* https://github.com/Khan/aphrodite
-	* https://www.sitepoint.com/style-react-components-styled-components/
 
-* Awesome React - Catalog of React Components & Libraries 
-  * https://github.com/brillout/awesome-react-components
+  * [Material-UI For React](http://www.material-ui.com/)
+  * [Aphrodite](https://github.com/Khan/aphrodite)
+  * [Styled Components Guide](https://www.sitepoint.com/style-react-components-styled-components/)
 
-* Patterns for React developers
-  * https://reactpatterns.com/
+* Other
 
-* react-animations by FormidableLabs
-  * A collection of animations that can be used with any inline style library
-  * https://github.com/FormidableLabs/react-animations
+  * [Awesome React - Catalog of React Components & Libraries](https://github.com/brillout/awesome-react-components)
 
-* Learn Redux for free from its creator Dan Abramov
-  * https://egghead.io/redux
+  * [Patterns for React developers](https://reactpatterns.com/)
 
+  * [React Animations - FormidableLabs](https://github.com/FormidableLabs/react-animations)
