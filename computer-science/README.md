@@ -4,6 +4,8 @@
 
   * Visualization tool --> https://visualgo.net/en
 
+  * [Khan Academy - Algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms)
+
 * Big-O
 
   * http://bigocheatsheet.com/
