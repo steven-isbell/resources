@@ -3,6 +3,7 @@
 * Techniques
 
   * [PG Exercises](https://pgexercises.com/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning)
+  * [Having Vs. Where](https://stackoverflow.com/questions/287474/whats-the-difference-between-having-and-where)
 
 * Database Relationships
 
