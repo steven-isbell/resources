@@ -17,4 +17,12 @@
 
 * Functional Programming
 
-  \*[Functions First Class Citizens](http://ryanchristiani.com/functions-as-first-class-citizens-in-javascript/)
+  * [Functions First Class Citizens](http://ryanchristiani.com/functions-as-first-class-citizens-in-javascript/)
+
+* Closures
+
+  * [Understand Closures - JavaScriptIsSexy](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+
+  * [Closures - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+
+  * [Master The JS Interview - Closures](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
