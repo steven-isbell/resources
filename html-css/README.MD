@@ -42,6 +42,7 @@
   * [Learn Flexbox with Wes Bos](https://flexbox.io/)
   * [MDN CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
   * [CSS Grid Practice](http://cssgridgarden.com/)
+  * [What I Wish I Knew - FlexBox](https://www.smashingmagazine.com/2011/09/css3-flexible-box-layout-explained/)
 
 * Design Methodologies/Languages
 
