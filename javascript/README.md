@@ -26,3 +26,11 @@
   * [Closures - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
   * [Master The JS Interview - Closures](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+
+* Prototype
+
+  * [Prototype Chain - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+
+* Context
+
+  * [This - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
