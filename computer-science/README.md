@@ -6,6 +6,8 @@
 
   * [Khan Academy - Algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms)
 
+  * [FreeCodeCamp Guide - Computer Science General](https://github.com/freeCodeCamp/guides/tree/master/src/pages/computer-science)
+
 * Big-O
 
   * [Big-O Cheat Sheet](http://bigocheatsheet.com/)
@@ -20,6 +22,8 @@
 * Linked Lists
 
   * [Implementing Linked Lists](https://code.tutsplus.com/articles/data-structures-with-javascript-singly-linked-list-and-doubly-linked-list--cms-23392)
+
+  * [FreeCodeCamp Guide - LinkedLists](https://github.com/freeCodeCamp/guides/blob/master/src/pages/computer-science/data-structures/linked-lists/index.md)
 
 * Recursion
 

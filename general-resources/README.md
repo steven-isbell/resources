@@ -45,3 +45,5 @@
   * [General DevMountain Resource Page](https://resources.devmountain.com/#/)
 
   * [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
+
+  * [FreeCodeCamp Guides](https://github.com/freeCodeCamp/guides/tree/master/src/pages)
