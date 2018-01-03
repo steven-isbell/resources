@@ -1,5 +1,9 @@
 # JAVASCRIPT Resources
 
+* General
+
+  * [Collection Of JavaScript Libraries](https://github.com/sorrycc/awesome-javascript)
+
 * Techniques
 
   * [ShortHand JavaScript](https://www.sitepoint.com/shorthand-javascript-techniques/)
@@ -11,9 +15,9 @@
 
   * [AirBnB JS Best Practices](https://github.com/airbnb/javascript)
 
-* [JS.coach - Opinionated catalog of open source JS packages](https://classic.js.coach/)
+  * [JS.coach - Opinionated catalog of open source JS packages](https://classic.js.coach/)
 
-* [Unheap - Repository of javascript plugins](http://www.unheap.com/)
+  * [Unheap - Repository of javascript plugins](http://www.unheap.com/)
 
 * Functional Programming
 
@@ -34,3 +38,9 @@
 * Context
 
   * [This - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+
+* Utility Libraries
+
+  * [UnderscoreJS](http://underscorejs.org/)
+  * [Lodash](https://lodash.com/)
+  * [RamdaJS](http://ramdajs.com/)
