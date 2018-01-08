@@ -1,4 +1,4 @@
-# INTERVIEW Resources
+# JOB Resources
 
 * Job Boards
 
