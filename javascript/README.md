@@ -14,9 +14,7 @@
 * Style Guides and (Generally) Best Practices
 
   * [AirBnB JS Best Practices](https://github.com/airbnb/javascript)
-
   * [JS.coach - Opinionated catalog of open source JS packages](https://classic.js.coach/)
-
   * [Unheap - Repository of javascript plugins](http://www.unheap.com/)
 
 * Functional Programming
@@ -26,9 +24,7 @@
 * Closures
 
   * [Understand Closures - JavaScriptIsSexy](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
-
   * [Closures - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-
   * [Master The JS Interview - Closures](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 
 * Prototype

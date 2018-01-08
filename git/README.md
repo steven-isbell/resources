@@ -8,11 +8,11 @@
 
   * [Git Good Guide](https://github.com/Rasbandit/Git-Good-Guide)
 
-* Working On a Fork
+* Working As a Group
 
   * [As a Team](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
-* Git cheat sheet
+* Git Cheat Sheets
 
   * [Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 
@@ -20,6 +20,6 @@
 
   * [Fixing Problems](https://github.com/k88hudson/git-flight-rules)
 
-* Semantic Commit Messages
+* Commit Messages
 
   * [Semantic Commits](https://seesparkbox.com/foundry/semantic_commit_messages)
