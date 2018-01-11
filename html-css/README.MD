@@ -36,6 +36,7 @@
 * Positioning
 
   * [FlexBox Zombies](https://flexboxzombies.com/courses/)
+  * [FlexBox CheatSheet](http://jonibologna.com/content/images/flexboxsheet.pdf)
   * [W3Schools Positioning](https://www.w3schools.com/css/css_positioning.asp)
   * [FlexBox Froggy](http://flexboxfroggy.com/)
   * [A Guide To FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

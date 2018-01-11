@@ -26,3 +26,7 @@
 
   * [Meetups](https://docs.google.com/spreadsheets/d/1GvKQDjzwflyxBbsItf_ST-VdhYSKQcnOdLYoULxdhgY/edit#gid=0)
   * [Meetup.com](https://www.meetup.com)
+
+* Resume Helpers
+
+  * [Resume Action Words](https://business.tutsplus.com/articles/resume-action-words-and-powerful-verbs--cms-28829)
