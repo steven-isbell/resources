@@ -15,3 +15,7 @@
 * Other
 
   * [Patterns for React developers](https://reactpatterns.com/)
+
+* Advnaced React
+
+  * [Advanced Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
