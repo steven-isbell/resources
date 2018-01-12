@@ -15,6 +15,9 @@
   * [Code For America](https://jobs.codeforamerica.org)
   * [Top 25 job search sites](https://skillcrush.com/2015/07/14/job-sites-to-find-your-first-developer-job/)
   * [Whitetruffle - Anonymous matching with thousands of companies](https://www.whitetruffle.com/)
+  * [Remote | OK](https://remoteok.io/)
+  * [WeWork Remotely](https://weworkremotely.com/)
+  * [25 Remote Job Boards](https://skillcrush.com/2014/10/10/sites-finding-remote-work/)
 
 * Interview Materials
 
@@ -30,3 +33,7 @@
 * Resume Helpers
 
   * [Resume Action Words](https://business.tutsplus.com/articles/resume-action-words-and-powerful-verbs--cms-28829)
+
+* Freelance
+
+  [Rate Calculator](https://doubleyourfreelancing.com/freelance-rate-calculator/)
