@@ -32,18 +32,25 @@
 
   * [Awwwards](https://www.awwwards.com/)
   * [Strml](http://strml.net/)
+  * [Code My UI - web design inspiration](https://codemyui.com/)
 
 * Positioning
 
-  * [FlexBox Zombies](https://flexboxzombies.com/courses/)
-  * [FlexBox CheatSheet](http://jonibologna.com/content/images/flexboxsheet.pdf)
   * [W3Schools Positioning](https://www.w3schools.com/css/css_positioning.asp)
-  * [FlexBox Froggy](http://flexboxfroggy.com/)
-  * [A Guide To FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-  * [Learn Flexbox with Wes Bos](https://flexbox.io/)
-  * [MDN CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-  * [CSS Grid Practice](http://cssgridgarden.com/)
-  * [What I Wish I Knew - FlexBox](https://www.smashingmagazine.com/2011/09/css3-flexible-box-layout-explained/)
+
+  * Flex
+
+    * [FlexBox Zombies](https://flexboxzombies.com/courses/)
+    * [FlexBox CheatSheet](http://jonibologna.com/content/images/flexboxsheet.pdf)
+    * [What I Wish I Knew - FlexBox](https://www.smashingmagazine.com/2011/09/css3-flexible-box-layout-explained/)
+    * [FlexBox Froggy](http://flexboxfroggy.com/)
+    * [A Guide To FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    * [Learn Flexbox with Wes Bos](https://flexbox.io/)
+
+    * CSS Grid
+      * [MDN CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+      * [CSS Grid Practice](http://cssgridgarden.com/)
+      * [CSS Grid Changes Everything](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 
 * Design Methodologies/Languages
 
@@ -74,4 +81,3 @@
   * [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
   * [CSSstats - visualize various stats about your css](http://www.cssstats.com)
   * [Coverr.co - beautiful, free videos for your homepage](https://coverr.co/)
-  * [Code My UI - web design inspiration](https://codemyui.com/)
