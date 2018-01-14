@@ -25,4 +25,4 @@
 
 * Recursion
 
-  * [Call Stack, recursion](https://www.thecodingdelight.com/understanding-recursion-javascript/)
+  * [Call Stack, Recursion](https://www.thecodingdelight.com/understanding-recursion-javascript/)
