@@ -1,5 +1,12 @@
 # JAVASCRIPT Resources
 
+* Practice Sites
+
+  * [CodeWars](https://www.codewars.com)
+  * [Codecademy](https://www.codecademy.com/en/tracks/javascript-combined)
+  * [CoderByte](https://coderbyte.com/)
+  * [CodeFights](https://codefights.com/)
+
 * General
 
   * [Collection Of JavaScript Libraries](https://github.com/sorrycc/awesome-javascript)
