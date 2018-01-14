@@ -7,6 +7,8 @@
 
 * Styling
 
+  * [Styled Components](https://www.styled-components.com/)
+  * [Glamorous](https://glamorous.rocks/)
   * [Material-UI For React](http://www.material-ui.com/)
   * [Aphrodite](https://github.com/Khan/aphrodite)
   * [Styled Components Guide](https://www.sitepoint.com/style-react-components-styled-components/)
