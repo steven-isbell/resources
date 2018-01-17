@@ -15,3 +15,10 @@
   * [General DevMountain Resource Page](https://resources.devmountain.com/#/)
   * [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
   * [FreeCodeCamp Guides](https://github.com/freeCodeCamp/guides/tree/master/src/pages)
+
+* At Least Partially Paid Learning Resources
+
+  * [FrontEndMasters](http://frontendmasters.com)
+  * [Udemy](https://www.udemy.com/)
+  * [Pluralsight](https://www.pluralsight.com/)
+  * [Egghead](https://egghead.io/)
