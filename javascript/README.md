@@ -17,6 +17,7 @@
   * [JavaScript30](https://javascript30.com/)
   * [VanillaJS Resource](http://youmightnotneedjquery.com/)
   * [JS Resource For JS Resources](http://superherojs.com/)
+  * [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 * Style Guides and (Generally) Best Practices
 
