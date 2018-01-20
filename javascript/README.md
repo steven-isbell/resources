@@ -6,6 +6,7 @@
   * [Codecademy](https://www.codecademy.com/en/tracks/javascript-combined)
   * [CoderByte](https://coderbyte.com/)
   * [CodeFights](https://codefights.com/)
+  * [Exercism](http://exercism.io/)
 
 * General
 
