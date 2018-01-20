@@ -7,6 +7,7 @@
   * [Redux - Dan Abramov Egghead Course](https://egghead.io/redux)
   * [What Does Redux Do?](https://daveceddia.com/what-does-redux-do/)
   * [Redux For Beginners](https://codeburst.io/react-redux-tutorial-for-beginners-learning-redux-in-2018-530f6deca43)
+  * [Redux - Wes Bos](https://learnredux.com/)
 
 * Data Flow
 

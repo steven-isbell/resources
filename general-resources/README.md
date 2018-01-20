@@ -23,3 +23,7 @@
   * [Pluralsight](https://www.pluralsight.com/)
   * [Egghead](https://egghead.io/)
   * [MIT OpenCourses](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
+
+* Command Line
+
+  * [Command Line - Wes Bos](https://commandlinepoweruser.com/)

@@ -45,12 +45,13 @@
     * [What I Wish I Knew - FlexBox](https://www.smashingmagazine.com/2011/09/css3-flexible-box-layout-explained/)
     * [FlexBox Froggy](http://flexboxfroggy.com/)
     * [A Guide To FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-    * [Learn Flexbox with Wes Bos](https://flexbox.io/)
+    * [Flexbox - Wes Bos](https://flexbox.io/)
 
-    * CSS Grid
-      * [MDN CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-      * [CSS Grid Practice](http://cssgridgarden.com/)
-      * [CSS Grid Changes Everything](https://www.youtube.com/watch?v=7kVeCqQCxlk)
+  * CSS Grid
+    * [MDN CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+    * [CSS Grid Practice](http://cssgridgarden.com/)
+    * [CSS Grid Changes Everything](https://www.youtube.com/watch?v=7kVeCqQCxlk)
+    * [CSS Grid - Wes Bos](https://cssgrid.io/)
 
 * Design Methodologies/Languages
 
