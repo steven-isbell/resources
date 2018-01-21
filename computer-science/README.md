@@ -5,6 +5,7 @@
   * [VisualGo Visualization Tool](https://visualgo.net/en)
   * [Khan Academy - Algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms)
   * [FreeCodeCamp Guide - Computer Science General](https://github.com/freeCodeCamp/guides/tree/master/src/pages/computer-science)
+  * [CS Trivia](https://keon.io/computer-scientists-trivia/)
 
 * Big-O
 

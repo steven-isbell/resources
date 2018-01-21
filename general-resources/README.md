@@ -8,6 +8,7 @@
   * [Hipster Ipsum, for when Latin just won't do](https://hipsum.co/?paras=4&type=hipster-centric)
   * [List of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)
   * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  * [Libraries - Open Source Library Tool](https://libraries.io/)
 
 * Learning Resources:
 

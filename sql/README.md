@@ -21,3 +21,17 @@
   * [KnexJS](http://knexjs.org/)
   * [BookshelfJS](http://bookshelfjs.org/)
   * [SequelizeJS](http://docs.sequelizejs.com/)
+
+* RDBMS
+
+  * [MySQL](https://www.mysql.com/)
+  * [PostgreSQL](https://www.postgresql.org/)
+  * [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
+  * [MariaDB](https://mariadb.org/)
+  * [CockroachDB](https://www.cockroachlabs.com/)
+
+* NoSQL
+
+  * [Redis](https://redis.io/)
+  * [Cassandra](cassandra.apache.org/)
+  * [MongoDB](https://www.mongodb.com/)

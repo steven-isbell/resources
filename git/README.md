@@ -23,3 +23,7 @@
 * Commit Messages
 
   * [Semantic Commits](https://seesparkbox.com/foundry/semantic_commit_messages)
+
+* Open Source Contributing
+
+  * [Projects For First Contributions](https://github.com/showcases/great-for-new-contributors)

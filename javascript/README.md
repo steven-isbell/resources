@@ -19,6 +19,7 @@
   * [VanillaJS Resource](http://youmightnotneedjquery.com/)
   * [JS Resource For JS Resources](http://superherojs.com/)
   * [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+  * [Writing Comments](https://css-tricks.com/the-art-of-comments/)
 
 * Style Guides and (Generally) Best Practices
 

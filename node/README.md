@@ -14,3 +14,7 @@
   * [HapiJS](https://hapijs.com/)
   * [SocketIO](https://socket.io)
   * [MeteorJS](https://www.meteor.com/)
+
+* Best Practice
+
+  * [Good API Design](https://techbeacon.com/guide-restful-api-design-35-must-reads#.WcVeaYqsgc0.twitter)
