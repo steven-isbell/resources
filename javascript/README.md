@@ -11,6 +11,7 @@
 * General
 
   * [Collection Of JavaScript Libraries](https://github.com/sorrycc/awesome-javascript)
+  * [ModernJS CheatSheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 
 * Techniques
 
