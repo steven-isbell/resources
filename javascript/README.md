@@ -12,6 +12,8 @@
 
   * [Collection Of JavaScript Libraries](https://github.com/sorrycc/awesome-javascript)
   * [ModernJS CheatSheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
+  * [30 Seconds of Code - Useful Snippets](https://github.com/Chalarangelo/30-seconds-of-code)
+  * [WTFJS - Exploring JavaScript](https://github.com/denysdovhan/wtfjs)
 
 * Techniques
 
@@ -21,6 +23,7 @@
   * [JS Resource For JS Resources](http://superherojs.com/)
   * [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   * [Writing Comments](https://css-tricks.com/the-art-of-comments/)
+  * [JavaScript Modules](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
 
 * Style Guides and (Generally) Best Practices
 

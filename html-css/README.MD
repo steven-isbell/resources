@@ -46,6 +46,7 @@
     * [FlexBox Froggy](http://flexboxfroggy.com/)
     * [A Guide To FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
     * [Flexbox - Wes Bos](https://flexbox.io/)
+    * [Animated Guide To FlexBox](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)
 
   * CSS Grid
     * [MDN CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)

@@ -18,3 +18,5 @@
 * Best Practice
 
   * [Good API Design](https://techbeacon.com/guide-restful-api-design-35-must-reads#.WcVeaYqsgc0.twitter)
+  * [NodeJS Best Practices](https://github.com/i0natan/nodebestpractices)
+  * [NodeJS in Production](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)

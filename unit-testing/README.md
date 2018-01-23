@@ -20,3 +20,5 @@
 * General Resources
 
   * [Framework Overviews](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a)
+  * [Awesome Testing Resources](https://github.com/TheJambo/awesome-testing)
+  * [Five-Factor Testing](https://www.devmynd.com/blog/five-factor-testing/)

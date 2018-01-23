@@ -7,9 +7,10 @@
   * [See what your website looks like rendered among all major browsers](http://browsershots.org/)
   * [Hipster Ipsum, for when Latin just won't do](https://hipsum.co/?paras=4&type=hipster-centric)
   * [List of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)
-  * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
   * [Libraries - Open Source Library Tool](https://libraries.io/)
   * [Selecting Technologies](https://alistapart.com/article/the-right-way-to-select-technology-excerpt)
+  * [List of Programming Lists](https://github.com/bnb/awesome-awesome-nodejs)
+  * [What The Web Can Do Today](https://whatwebcando.today/)
 
 * Learning Resources:
 
@@ -17,6 +18,7 @@
   * [General DevMountain Resource Page](https://resources.devmountain.com/#/)
   * [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
   * [FreeCodeCamp Guides](https://github.com/freeCodeCamp/guides/tree/master/src/pages)
+  * [Mental Models](https://www.farnamstreetblog.com/mental-models/)
 
 * At Least Partially Paid Learning Resources
 

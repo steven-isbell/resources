@@ -37,3 +37,11 @@
 * Freelance
 
   [Rate Calculator](https://doubleyourfreelancing.com/freelance-rate-calculator/)
+
+* Misc
+
+  * [Culture Codes - Tech Companies](https://tettra.co/culture-codes/handbooks/)
+  * [Trending Technologies](https://medium.freecodecamp.org/trending-developer-skills-based-on-my-analysis-of-ask-hn-whos-hiring-26c02a3ca1fd)
+  * [Agile Environment](https://www.niceideas.ch/roller2/badtrash/entry/periodic-table-of-agile-principles)
+  * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  * [Rethinking The Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs)
