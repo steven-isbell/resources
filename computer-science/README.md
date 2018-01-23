@@ -6,6 +6,7 @@
   * [Khan Academy - Algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms)
   * [FreeCodeCamp Guide - Computer Science General](https://github.com/freeCodeCamp/guides/tree/master/src/pages/computer-science)
   * [CS Trivia](https://keon.io/computer-scientists-trivia/)
+  * [Crash Course In CS - YouTube](https://www.youtube.com/watch?v=O5nskjZ_GoI&index=2&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 * Big-O
 
