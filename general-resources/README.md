@@ -9,6 +9,7 @@
   * [List of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)
   * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
   * [Libraries - Open Source Library Tool](https://libraries.io/)
+  * [Selecting Technologies](https://alistapart.com/article/the-right-way-to-select-technology-excerpt)
 
 * Learning Resources:
 
@@ -24,6 +25,7 @@
   * [Pluralsight](https://www.pluralsight.com/)
   * [Egghead](https://egghead.io/)
   * [MIT OpenCourses](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
+  * [Coursera](https://www.coursera.org/browse/computer-science?languages=en)
 
 * Command Line
 

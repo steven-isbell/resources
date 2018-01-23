@@ -8,3 +8,4 @@
 
   * [Free Programming Book - GoalKicker](http://books.goalkicker.com/)
   * [Software Engineering Daily](https://softwareengineeringdaily.com/)
+  * [Big List of Programming Talks By Subject](https://github.com/hellerve/programming-talks)

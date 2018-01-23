@@ -22,7 +22,6 @@
 * Linked Lists
 
   * [Implementing Linked Lists](https://code.tutsplus.com/articles/data-structures-with-javascript-singly-linked-list-and-doubly-linked-list--cms-23392)
-
   * [FreeCodeCamp Guide - LinkedLists](https://github.com/freeCodeCamp/guides/blob/master/src/pages/computer-science/data-structures/linked-lists/index.md)
 
 * Recursion
