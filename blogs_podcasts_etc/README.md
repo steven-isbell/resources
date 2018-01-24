@@ -11,5 +11,5 @@
   * [Big List of Programming Talks By Subject](https://github.com/hellerve/programming-talks)
   * [Syntax](https://syntax.fm/)
   * [ShopTalk Show](http://shoptalkshow.com/)
-  * [CodeNewbie](https://www.codenewbie.org/podcast);
-  * [FullStack Radio](http://www.fullstackradio.com/);
+  * [CodeNewbie](https://www.codenewbie.org/podcast)
+  * [FullStack Radio](http://www.fullstackradio.com/)

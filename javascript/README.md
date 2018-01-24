@@ -60,3 +60,8 @@
   * [UnderscoreJS](http://underscorejs.org/)
   * [Lodash](https://lodash.com/)
   * [RamdaJS](http://ramdajs.com/)
+
+* Books
+
+  * [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
+  * [Eloquent Javascript](http://eloquentjavascript.net/)
