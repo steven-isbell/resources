@@ -14,6 +14,7 @@
   * [ModernJS CheatSheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
   * [30 Seconds of Code - Useful Snippets](https://github.com/Chalarangelo/30-seconds-of-code)
   * [WTFJS - Exploring JavaScript](https://github.com/denysdovhan/wtfjs)
+  * [Classes, Desctructuring, and More](https://github.com/DevMountain/javascript-iii-quokka)
 
 * Techniques
 
