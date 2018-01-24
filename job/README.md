@@ -24,6 +24,7 @@
   * [Interview Prep Questions](https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/)
   * [Front-End Job Interview Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
   * [How to write a good developer resume in 2017](https://medium.freecodecamp.org/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9)
+  * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 * Meetups
 
