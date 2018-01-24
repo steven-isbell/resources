@@ -8,6 +8,7 @@
   * [What Does Redux Do?](https://daveceddia.com/what-does-redux-do/)
   * [Redux For Beginners](https://codeburst.io/react-redux-tutorial-for-beginners-learning-redux-in-2018-530f6deca43)
   * [Redux - Wes Bos](https://learnredux.com/)
+  * [You Might Not Need Redux - Dan Abramov](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
 * Data Flow
 
