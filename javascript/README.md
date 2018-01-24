@@ -49,6 +49,12 @@
 
   * [This - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 
+* Classes
+
+  * [Classes - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+  * [Classes - JavaScriptInfo](https://javascript.info/class)
+  * [A Deep Dive Into Classes - Scotch](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
+
 * Utility Libraries
 
   * [UnderscoreJS](http://underscorejs.org/)
