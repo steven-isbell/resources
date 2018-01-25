@@ -12,7 +12,7 @@
   * [Software Engineering Daily](https://softwareengineeringdaily.com/)
   * [Big List of Programming Talks By Subject](https://github.com/hellerve/programming-talks)
 
-* Computer Sciense
+* Computer Science
 
   * [BaseCS - Basic Computer Science Podcast](https://www.codenewbie.org/basecs)
   
