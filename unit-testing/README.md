@@ -16,6 +16,7 @@
 
   * [Puppeteer](https://github.com/GoogleChrome/puppeteer)
   * [Phantom](http://phantomjs.org/)
+  * [Cypress](https://www.cypress.io/)
 
 * General Resources
 
