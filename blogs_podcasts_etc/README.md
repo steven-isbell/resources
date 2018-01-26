@@ -3,6 +3,8 @@
   * [JavaScript Jabber](https://devchat.tv/js-jabber)
   * [2ality](2ality.com/)
   * [Medium - Addy Osmani](https://medium.com/@addyosmani)
+  * [Front End Happy Hour - Ryan Burgess](http://frontendhappyhour.com/)
+  * [SyntaxFM - Wes Bos](https://syntax.fm/)
 
 * Programming General
 
@@ -13,3 +15,7 @@
   * [ShopTalk Show](http://shoptalkshow.com/)
   * [CodeNewbie](https://www.codenewbie.org/podcast)
   * [FullStack Radio](http://www.fullstackradio.com/)
+
+* Computer Science
+
+  * [BaseCS - Basic Computer Science Podcast](https://www.codenewbie.org/basecs)
