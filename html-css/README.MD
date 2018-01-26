@@ -68,6 +68,8 @@
 
   * [CodePen](https://codepen.io/)
   * [Tympanus](https://tympanus.net/codrops/)
+  * [Awesome CSS - A collection of awesome CSS libraries, tools, frameworks and software](https://github.com/ikkou/awesome-css)
+  * [CSS Selector Practice](http://flukeout.github.io/)
 
 * Other
 
@@ -75,11 +77,13 @@
   * [Centering In CSS](http://howtocenterincss.com/#contentType=text&content.text.lines=2&container.width=100pct&horizontal=center&vertical=middle&browser.IE=none)
   * [FullScreen Video Background](https://slicejack.com/fullscreen-html5-video-background-css/)
   * [Bootstrap CheatSheet](http://www.brandx.net/support/websites/bootstrap/bootstrap-cheat-sheet.html)
-  * [CSS Selector Practice](http://flukeout.github.io/)
-  * [HTMLreference.io - free visual guide to HTML](http://htmlreference.io/)
-  * [CSSreference.io - free visual guide to CSS](http://cssreference.io/)
-  * [Awesome CSS - A collection of awesome CSS libraries, tools, frameworks and software](https://github.com/ikkou/awesome-css)
-  * [The Front-End Checklist for modern websites](https://frontendchecklist.io/)
   * [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
-  * [CSSstats - visualize various stats about your css](http://www.cssstats.com)
   * [Coverr.co - beautiful, free videos for your homepage](https://coverr.co/)
+
+  * General HTML/CSS
+
+    * [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+    * [CSSstats - visualize various stats about your css](http://www.cssstats.com)
+    * [HTMLreference.io - free visual guide to HTML](http://htmlreference.io/)
+    * [CSSreference.io - free visual guide to CSS](http://cssreference.io/)
+    * [The Front-End Checklist for modern websites](https://frontendchecklist.io/)
