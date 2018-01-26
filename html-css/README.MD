@@ -87,3 +87,5 @@
     * [HTMLreference.io - free visual guide to HTML](http://htmlreference.io/)
     * [CSSreference.io - free visual guide to CSS](http://cssreference.io/)
     * [The Front-End Checklist for modern websites](https://frontendchecklist.io/)
+    * [Meta Tags](https://www.metatags.org/all_metatags)
+    * [HTML Element Tags](https://www.w3schools.com/tags/)
