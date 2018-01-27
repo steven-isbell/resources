@@ -89,3 +89,4 @@
     * [The Front-End Checklist for modern websites](https://frontendchecklist.io/)
     * [Meta Tags](https://www.metatags.org/all_metatags)
     * [HTML Element Tags](https://www.w3schools.com/tags/)
+    * [CSS Cheat Sheet](http://overapi.com/css)
