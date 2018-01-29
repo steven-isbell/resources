@@ -1,5 +1,7 @@
 # REACT Resources
 
+[React Documentation](reactjs.org)
+
 * Component Libraries
 
   * [Awesome React - Catalog of React Components & Libraries](https://github.com/brillout/awesome-react-components)
