@@ -29,3 +29,8 @@
   * [Understanding React - 5 Key Concepts](https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
   * [Beginners Guide To ReactJS - Egghead](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
   * [React Books, Courses, Tutorials - 2017](https://reactdom.com/blog/reactjs-books)
+
+* HTTP
+
+  * [AJAX in React](https://daveceddia.com/ajax-requests-in-react/)
+  * [HTTP Requests](https://javascriptplayground.com/http-requests-reactjs/)

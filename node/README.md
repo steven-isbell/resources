@@ -20,3 +20,12 @@
   * [Good API Design](https://techbeacon.com/guide-restful-api-design-35-must-reads#.WcVeaYqsgc0.twitter)
   * [NodeJS Best Practices](https://github.com/i0natan/nodebestpractices)
   * [NodeJS in Production](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
+
+* Server Interaction
+
+  * Request Tools
+
+    * [Axios](https://github.com/axios/axios)
+    * [SuperAgent](https://visionmedia.github.io/superagent/)
+    * [Request Promise](https://github.com/request/request-promise)
+    * [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
