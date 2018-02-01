@@ -16,7 +16,7 @@
   * [Styled Components Guide](https://www.sitepoint.com/style-react-components-styled-components/)
   * [React Animations - FormidableLabs](https://github.com/FormidableLabs/react-animations)
 
-* Advnaced React
+* Advanced React
 
   * [Advanced Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 
