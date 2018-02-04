@@ -26,6 +26,7 @@
   * [Beginners Guide To ReactJS - Egghead](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
   * [React Books, Courses, Tutorials - 2017](https://reactdom.com/blog/reactjs-books)
   * [Basic React Patterns](https://reactpatterns.com/)
+  * [React, Inline Functions, and Performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
 
 * HTTP
 
