@@ -80,13 +80,14 @@
   * [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
   * [Coverr.co - beautiful, free videos for your homepage](https://coverr.co/)
 
-  * General HTML/CSS
+* General HTML/CSS
 
-    * [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
-    * [CSSstats - visualize various stats about your css](http://www.cssstats.com)
-    * [HTMLreference.io - free visual guide to HTML](http://htmlreference.io/)
-    * [CSSreference.io - free visual guide to CSS](http://cssreference.io/)
-    * [The Front-End Checklist for modern websites](https://frontendchecklist.io/)
-    * [Meta Tags](https://www.metatags.org/all_metatags)
-    * [HTML Element Tags](https://www.w3schools.com/tags/)
-    * [CSS Cheat Sheet](http://overapi.com/css)
+  * [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+  * [CSSstats - visualize various stats about your css](http://www.cssstats.com)
+  * [HTMLreference.io - free visual guide to HTML](http://htmlreference.io/)
+  * [CSSreference.io - free visual guide to CSS](http://cssreference.io/)
+  * [The Front-End Checklist for modern websites](https://frontendchecklist.io/)
+  * [Meta Tags](https://www.metatags.org/all_metatags)
+  * [HTML Element Tags](https://www.w3schools.com/tags/)
+  * [CSS Cheat Sheet](http://overapi.com/css)
+  * [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
