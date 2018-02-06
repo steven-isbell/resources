@@ -20,6 +20,7 @@
   * [Applications of BST](https://stackoverflow.com/questions/2130416/what-are-the-applications-of-binary-trees)
   * [Understanding BST's](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html)
   * [BST Example - REPL](https://repl.it/@steven_isbell/BinarySearchTree)
+  * [Searching BST's](https://khan4019.github.io/front-end-Interview-Questions/bst.html)
 
 * Linked Lists
 
