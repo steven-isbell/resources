@@ -36,3 +36,7 @@
   * [Understanding Recursion](http://pages.cs.wisc.edu/~vernon/cs367/notes/6.RECURSION.html#iter)
   * [Tail Call Optimizations](http://www.thinkingincrowd.me/2016/06/06/How-to-avoid-Stack-overflow-error-on-recursive/)
   * [Recursion Examples - REPL](https://repl.it/@steven_isbell/Recursion-Examples)
+
+* Algorithms
+
+  * [Grokking Algorithms EBook](https://www.manning.com/books/grokking-algorithms)
