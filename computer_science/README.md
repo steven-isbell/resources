@@ -18,11 +18,15 @@
 * Binary Search Tree
 
   * [Applications of BST](https://stackoverflow.com/questions/2130416/what-are-the-applications-of-binary-trees)
+  * [Understanding BST's](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html)
+  * [BST Example - REPL](https://repl.it/@steven_isbell/BinarySearchTree)
 
 * Linked Lists
 
   * [Implementing Linked Lists](https://code.tutsplus.com/articles/data-structures-with-javascript-singly-linked-list-and-doubly-linked-list--cms-23392)
   * [FreeCodeCamp Guide - LinkedLists](https://github.com/freeCodeCamp/guides/blob/master/src/pages/computer-science/data-structures/linked-lists/index.md)
+  * [Understanding Linked Lists](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)
+  * [Linked List Example - REPL](https://repl.it/@steven_isbell/SinglyLinkedList)
 
 * Recursion
 
@@ -30,3 +34,4 @@
   * [Call Stack Size](http://2ality.com/2014/04/call-stack-size.html)
   * [Understanding Recursion](http://pages.cs.wisc.edu/~vernon/cs367/notes/6.RECURSION.html#iter)
   * [Tail Call Optimizations](http://www.thinkingincrowd.me/2016/06/06/How-to-avoid-Stack-overflow-error-on-recursive/)
+  * [Recursion Examples - REPL](https://repl.it/@steven_isbell/Recursion-Examples)
