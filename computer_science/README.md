@@ -29,3 +29,4 @@
   * [Call Stack, Recursion](https://www.thecodingdelight.com/understanding-recursion-javascript/)
   * [Call Stack Size](http://2ality.com/2014/04/call-stack-size.html)
   * [Understanding Recursion](http://pages.cs.wisc.edu/~vernon/cs367/notes/6.RECURSION.html#iter)
+  * [Tail Call Optimizations](http://www.thinkingincrowd.me/2016/06/06/How-to-avoid-Stack-overflow-error-on-recursive/)
