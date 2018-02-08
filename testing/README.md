@@ -30,3 +30,10 @@
   * [Unit Testing - Basics Best Practices](https://stackify.com/unit-testing-basics-best-practices/)
   * [Unit Testing - Best and Worst Practices](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/)
   * [Unit Testing - Top 5 Best Practices](https://www.developer.com/mgmt/top-five-best-practices-for-writing-unit-test-scripts.html)
+
+* Endpoint Testing
+
+  * [Postman Test Examples](https://www.getpostman.com/docs/postman/scripts/test_examples)
+  * [Postman Sandbox Reference](https://www.getpostman.com/docs/postman/scripts/postman_sandbox_api_reference)
+  * [Stop Being So Happy](https://crmbusiness.wordpress.com/2015/04/29/developers-need-to-stop-being-so-happy/)
+  * [Test Your Sad Path](http://blog.dcycle.com/blog/63/test-your-sad-path-first/)
