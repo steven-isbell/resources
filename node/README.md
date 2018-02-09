@@ -6,6 +6,7 @@
   * [Node University free courses](https://node.university/courses/category/free)
   * [Node Docs](https://nodejs.org/en/docs/)
   * [The Node Event Loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
+  * [Node Child Processes](https://nodejs.org/api/child_process.html)
 
 * Node Server Frameworks
 
