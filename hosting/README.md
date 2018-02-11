@@ -14,6 +14,8 @@
 
 * AWS
 
+  * [Deploy Node and React App to AWS](https://medium.com/@adhasmana/how-to-quickly-deploy-react-and-node-app-on-aws-80e5dfe7d86e)
+
 * Zeit
 
   * [Hosting a React App on Zeit](https://github.com/DevMountain/Hosting-React-Zeit)
