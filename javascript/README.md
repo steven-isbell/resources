@@ -36,6 +36,7 @@
 
   * [Functions First Class Citizens](http://ryanchristiani.com/functions-as-first-class-citizens-in-javascript/)
   * [Mostly Adequate Guide to FP](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+  * [JavaScript Allonge](https://leanpub.com/javascriptallongesix/read)
 
 * Closures
 
