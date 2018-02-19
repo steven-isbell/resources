@@ -27,6 +27,7 @@
   * [React Books, Courses, Tutorials - 2017](https://reactdom.com/blog/reactjs-books)
   * [Basic React Patterns](https://reactpatterns.com/)
   * [React, Inline Functions, and Performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
+  * [Events in React](https://reactarmory.com/guides/react-events-cheatsheet)
 
 * HTTP
 
