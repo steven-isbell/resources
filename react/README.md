@@ -34,3 +34,9 @@
 
   * [AJAX in React](https://daveceddia.com/ajax-requests-in-react/)
   * [HTTP Requests](https://javascriptplayground.com/http-requests-reactjs/)
+
+* Routing
+
+  * [React Router](https://reacttraining.com/react-router/)
+  * [Animated Transitions](https://medium.freecodecamp.org/animated-transitions-with-react-router-a0ad00e633f1)
+  * [Routing And Redux](https://reacttraining.com/react-router/web/guides/redux-integration)
