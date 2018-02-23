@@ -29,6 +29,7 @@
   * [React, Inline Functions, and Performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
   * [Events in React](https://reactarmory.com/guides/react-events-cheatsheet)
   * [React Armory](https://reactarmory.com/)
+  * [React Training](https://reacttraining.com/)
 
 * HTTP
 
