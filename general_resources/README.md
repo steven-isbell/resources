@@ -21,6 +21,7 @@
   * [FreeCodeCamp Guides](https://github.com/freeCodeCamp/guides/tree/master/src/pages)
   * [Mental Models](https://www.farnamstreetblog.com/mental-models/)
   * [p1xt Various Guides](https://github.com/P1xt/p1xt-guides/blob/master/README.md)
+  * [Learn X in Y Minutes](https://learnxinyminutes.com/)
 
 * At Least Partially Paid Learning Resources
 
