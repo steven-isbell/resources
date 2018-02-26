@@ -1,6 +1,6 @@
 # REACT Resources
 
-[React Documentation](reactjs.org)
+[React Documentation](https://www.reactjs.org)
 
 * Component Libraries
 
@@ -30,6 +30,8 @@
   * [Events in React](https://reactarmory.com/guides/react-events-cheatsheet)
   * [React Armory](https://reactarmory.com/)
   * [React Training](https://reacttraining.com/)
+  * [Components and Props](https://reactjs.org/docs/components-and-props.html)
+  * [Component and Lifecycle Methods](https://reactjs.org/docs/react-component.html)
 
 * HTTP
 
