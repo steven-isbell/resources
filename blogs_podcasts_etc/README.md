@@ -5,6 +5,7 @@
   * [Medium - Addy Osmani](https://medium.com/@addyosmani)
   * [Front End Happy Hour - Ryan Burgess](http://frontendhappyhour.com/)
   * [SyntaxFM - Wes Bos](https://syntax.fm/)
+  * [YouTube Series - Crock On JS](https://www.youtube.com/playlist?list=PLlRSdZcxPj9_GK2i1KVvnZD9fVToABz3V)
 
 * Programming General
 
