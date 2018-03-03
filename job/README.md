@@ -46,9 +46,9 @@
   * [Trending Technologies](https://medium.freecodecamp.org/trending-developer-skills-based-on-my-analysis-of-ask-hn-whos-hiring-26c02a3ca1fd)
   * [Agile Environment](https://www.niceideas.ch/roller2/badtrash/entry/periodic-table-of-agile-principles)
 
-Career Items
+* Career Items
 
-* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [Rethinking The Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs)
-* [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
-* [The Art of Negotiating](https://theartofcharm.com/podcast-episodes/alex-kouts-art-negotiating-episode-326/)
+  * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  * [Rethinking The Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs)
+  * [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
+  * [The Art of Negotiating](https://theartofcharm.com/podcast-episodes/alex-kouts-art-negotiating-episode-326/)
