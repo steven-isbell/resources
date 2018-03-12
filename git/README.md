@@ -19,6 +19,7 @@
 * Git - What to do when things go wrong?
 
   * [Fixing Problems](https://github.com/k88hudson/git-flight-rules)
+  * [OhShitGit](http://ohshitgit.com/)
 
 * Commit Messages
 

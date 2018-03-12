@@ -1,3 +1,5 @@
+# TEXT EDITOR Resources
+
 * VS-Code Extensions
 
   * HTML/CSS
@@ -20,3 +22,11 @@
     * Path Intellisense - File path autocompletion.
     * Prettier - Automatic code formatter.
     * VSCode-Icons - Adds icons to file tree.
+
+* Atom
+
+* Sublime
+
+* WebStorm
+
+* Brackets

@@ -1,4 +1,6 @@
-* Browser Extensions
+# BROWSER EXTENSION Resources
+
+* Chrome
 
   * Html/CSS
 
@@ -17,3 +19,9 @@
     * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) - Useful for making JSON look cleaner in the browser.
     * [Allow-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en) - Can be useful for troubleshooting CORS issues, make sure to turn off when not in use.
     * [Vimeo Repeat and Speed](https://chrome.google.com/webstore/detail/vimeo-repeat-speed/noonakfaafcdaagngpjehilgegefdima?hl=en) - Useful for speeding up vimeo videos.
+
+* FireFox
+
+* Edge
+
+* Safari

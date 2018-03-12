@@ -14,6 +14,7 @@
   * [ModernJS CheatSheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
   * [30 Seconds of Code - Useful Snippets](https://github.com/Chalarangelo/30-seconds-of-code)
   * [WTFJS - Exploring JavaScript](https://github.com/denysdovhan/wtfjs)
+  * [Classes, Desctructuring, and More](https://github.com/DevMountain/javascript-iii-quokka)
 
 * Techniques
 
@@ -34,6 +35,9 @@
 * Functional Programming
 
   * [Functions First Class Citizens](http://ryanchristiani.com/functions-as-first-class-citizens-in-javascript/)
+  * [Mostly Adequate Guide to FP](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+  * [JavaScript Allonge](https://leanpub.com/javascriptallongesix/read)
+  * [Partial Function Application](https://dev.to/ycmjason/how-to-make-functions-partially-applicable-in-javascript--416b)
 
 * Closures
 

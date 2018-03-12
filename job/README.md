@@ -18,11 +18,12 @@
   * [Remote | OK](https://remoteok.io/)
   * [WeWork Remotely](https://weworkremotely.com/)
   * [25 Remote Job Boards](https://skillcrush.com/2014/10/10/sites-finding-remote-work/)
+  * [FlexJobs](https://www.flexjobs.com/)
 
 * Interview Materials
 
   * [Interview Prep Questions](https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/)
-  * [Front-End Job Interview Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
+  * [Front-End Job Interview Questions](https://github.com/yangshun/front-end-interview-handbook)
   * [How to write a good developer resume in 2017](https://medium.freecodecamp.org/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9)
   * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
@@ -45,9 +46,9 @@
   * [Trending Technologies](https://medium.freecodecamp.org/trending-developer-skills-based-on-my-analysis-of-ask-hn-whos-hiring-26c02a3ca1fd)
   * [Agile Environment](https://www.niceideas.ch/roller2/badtrash/entry/periodic-table-of-agile-principles)
 
-Career Items
+* Career Items
 
-* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [Rethinking The Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs)
-* [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
-* [The Art of Negotiating](https://theartofcharm.com/podcast-episodes/alex-kouts-art-negotiating-episode-326/)
+  * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  * [Rethinking The Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs)
+  * [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
+  * [The Art of Negotiating](https://theartofcharm.com/podcast-episodes/alex-kouts-art-negotiating-episode-326/)

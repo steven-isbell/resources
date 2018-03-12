@@ -11,6 +11,7 @@
   * [Selecting Technologies](https://alistapart.com/article/the-right-way-to-select-technology-excerpt)
   * [List of Programming Lists](https://github.com/bnb/awesome-awesome-nodejs)
   * [What The Web Can Do Today](https://whatwebcando.today/)
+  * [Can I Use In Browser?](https://caniuse.com/)
 
 * Learning Resources:
 
@@ -20,6 +21,7 @@
   * [FreeCodeCamp Guides](https://github.com/freeCodeCamp/guides/tree/master/src/pages)
   * [Mental Models](https://www.farnamstreetblog.com/mental-models/)
   * [p1xt Various Guides](https://github.com/P1xt/p1xt-guides/blob/master/README.md)
+  * [Learn X in Y Minutes](https://learnxinyminutes.com/)
 
 * At Least Partially Paid Learning Resources
 
@@ -33,3 +35,4 @@
 * Command Line
 
   * [Command Line - Wes Bos](https://commandlinepoweruser.com/)
+  * [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
