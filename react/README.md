@@ -17,8 +17,9 @@
 * Other
 
   * [Patterns for React developers](https://reactpatterns.com/)
+  * [Accept Stripe Payments With React and Express](https://github.com/DevMountain/guest-lecturer-interface/pull/28)
 
-* Advnaced React
+* Advanced React
 
   * [Advanced Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 
