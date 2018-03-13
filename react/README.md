@@ -44,6 +44,6 @@
   * [Animated Transitions](https://medium.freecodecamp.org/animated-transitions-with-react-router-a0ad00e633f1)
   * [Routing And Redux](https://reacttraining.com/react-router/web/guides/redux-integration)
 
-* 3rd-Party API Walkthroughs
+* 3rd-Party API Tutorials
 
   * [Accept Stripe Payments With React and Express](https://github.com/DevMountain/guest-lecturer-interface/pull/28)
