@@ -49,6 +49,7 @@
 * Prototype
 
   * [Prototype Chain - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+  * [Everythgin is an Object](http://radar.oreilly.com/2014/05/what-it-really-means-when-people-say-everything-in-javascript-is-an-object.html)
 
 * Context
 
