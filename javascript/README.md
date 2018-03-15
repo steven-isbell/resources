@@ -38,6 +38,7 @@
   * [Mostly Adequate Guide to FP](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
   * [JavaScript Allonge](https://leanpub.com/javascriptallongesix/read)
   * [Partial Function Application](https://dev.to/ycmjason/how-to-make-functions-partially-applicable-in-javascript--416b)
+  * [Pure Functional Programming](https://www.sitepoint.com/an-introduction-to-reasonably-pure-functional-programming/)
 
 * Closures
 
