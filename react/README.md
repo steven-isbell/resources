@@ -47,3 +47,7 @@
 * 3rd-Party API Tutorials
 
   * [Accept Stripe Payments With React and Express](https://github.com/DevMountain/guest-lecturer-interface/pull/28)
+
+* Useful Component Examples
+
+  * [Lazy Loading Images Component](https://medium.com/jsguru/react-image-lazy-loading-component-246e0cdcce02)
