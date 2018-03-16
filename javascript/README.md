@@ -14,7 +14,7 @@
   * [ModernJS CheatSheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
   * [30 Seconds of Code - Useful Snippets](https://github.com/Chalarangelo/30-seconds-of-code)
   * [WTFJS - Exploring JavaScript](https://github.com/denysdovhan/wtfjs)
-  * [Classes, Desctructuring, and More](https://github.com/DevMountain/javascript-iii-quokka)
+  * [JavaScript The Right Way](http://jstherightway.org/)
 
 * Techniques
 
@@ -60,6 +60,7 @@
   * [Classes - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
   * [Classes - JavaScriptInfo](https://javascript.info/class)
   * [A Deep Dive Into Classes - Scotch](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
+  * [Classes, Desctructuring, and More](https://github.com/DevMountain/javascript-iii-quokka)
 
 * Utility Libraries
 
