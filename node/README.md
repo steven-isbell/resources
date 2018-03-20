@@ -33,4 +33,4 @@
 
 * Debugging
  
- * [Debugging In VSC](https://code.visualstudio.com/docs/editor/debugging)
+    * [Debugging In VSC](https://code.visualstudio.com/docs/editor/debugging)
