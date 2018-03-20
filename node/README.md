@@ -30,3 +30,7 @@
     * [SuperAgent](https://visionmedia.github.io/superagent/)
     * [Request Promise](https://github.com/request/request-promise)
     * [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+
+* Debugging
+ 
+ * [Debugging In VSC](https://code.visualstudio.com/docs/editor/debugging)
