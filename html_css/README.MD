@@ -64,6 +64,9 @@
 
   * [Hover.css - A collection of CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
   * [15 CSS Animation Examples](https://webdesign.tutsplus.com/articles/15-inspiring-examples-of-css-animation-on-codepen--cms-23937)
+  * [W3Schools - Animations](https://www.w3schools.com/css/css3_animations.asp)
+  * [MDN - Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+  * [Animations For Beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
 
 * Tools
 
