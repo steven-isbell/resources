@@ -22,6 +22,7 @@
     * Path Intellisense - File path autocompletion.
     * Prettier - Automatic code formatter.
     * VSCode-Icons - Adds icons to file tree.
+    * Chrome Debugger - Enables Debugging Client Side Code
 
 * Atom
 
