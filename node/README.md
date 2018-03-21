@@ -30,3 +30,16 @@
     * [SuperAgent](https://visionmedia.github.io/superagent/)
     * [Request Promise](https://github.com/request/request-promise)
     * [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+
+* Authentication/Security
+
+  * General
+
+    * [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
+  * Passport
+
+    * [Passport Docs](www.passportjs.org/)
+    * [Understanding Passport Flow](https://stackoverflow.com/questions/27637609/understanding-passport-serialize-deserialize)
+    * [Understanding Passport Flow 2](http://toon.io/understanding-passportjs-authentication-flow/)
+
+  * JWT
