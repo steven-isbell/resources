@@ -43,7 +43,7 @@
     * [Understanding Passport Flow 2](http://toon.io/understanding-passportjs-authentication-flow/)
 
   * JWT
-  
+
 * Debugging
 
     * [Debugging In VSC](https://code.visualstudio.com/docs/editor/debugging)
