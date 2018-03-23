@@ -36,6 +36,8 @@
   * General
 
     * [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
+    * [Understanding HTTPS](https://robertheaton.com/2014/03/27/how-does-https-actually-work/) 
+
   * Passport
 
     * [Passport Docs](www.passportjs.org/)
