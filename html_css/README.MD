@@ -85,6 +85,7 @@
   * [Bootstrap CheatSheet](http://www.brandx.net/support/websites/bootstrap/bootstrap-cheat-sheet.html)
   * [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
   * [Coverr.co - beautiful, free videos for your homepage](https://coverr.co/)
+  * [Mobile Vs. Desktop Users](https://www.stonetemple.com/mobile-vs-desktop-usage-mobile-grows-but-desktop-still-a-big-player/)
 
 * General HTML/CSS
 
