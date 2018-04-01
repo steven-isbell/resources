@@ -43,6 +43,7 @@
   * [React Router](https://reacttraining.com/react-router/)
   * [Animated Transitions](https://medium.freecodecamp.org/animated-transitions-with-react-router-a0ad00e633f1)
   * [Routing And Redux](https://reacttraining.com/react-router/web/guides/redux-integration)
+  * [Protected Routes](https://tylermcginnis.com/react-router-protected-routes-authentication/)
 
 * 3rd-Party API Tutorials
 
