@@ -11,6 +11,7 @@
   * [You Might Not Need Redux - Dan Abramov](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
   * [When To Use Component State](https://redux.js.org/docs/faq/OrganizingState.html)
   * [Awesome Redux - Tons of Redux Content](https://github.com/xgrommx/awesome-redux)
+  * [Ducks Model](https://medium.com/@scbarrus/the-ducks-file-structure-for-redux-d63c41b7035c)
 
 * Data Flow
 
