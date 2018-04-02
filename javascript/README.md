@@ -28,7 +28,8 @@
 
 * Style Guides and (Generally) Best Practices
 
-  * [AirBnB JS Best Practices](https://github.com/airbnb/javascript)
+  * [AirBnB JS Style Guide](https://github.com/airbnb/javascript)
+  * [Google JS Style Guide](https://google.github.io/styleguide/jsguide.html)
   * [JS.coach - Opinionated catalog of open source JS packages](https://classic.js.coach/)
   * [Unheap - Repository of javascript plugins](http://www.unheap.com/)
 
