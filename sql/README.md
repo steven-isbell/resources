@@ -8,6 +8,7 @@
 * Database Relationships
 
   * [Explanation of Database Relationships](https://code.tutsplus.com/articles/sql-for-beginners-part-3-database-relationships--net-8561)
+  * [Understanding Relationships](https://support.airtable.com/hc/en-us/articles/218734758-A-beginner-s-guide-to-many-to-many-relationships#types)
 
 * Practice Sites
 
