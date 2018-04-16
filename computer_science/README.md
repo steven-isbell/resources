@@ -41,3 +41,4 @@
 * Algorithms
 
   * [Grokking Algorithms EBook](https://www.manning.com/books/grokking-algorithms)
+  * [DS & AlgoClass](https://github.com/kuychaco/algoClass)
