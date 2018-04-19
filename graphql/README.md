@@ -7,3 +7,4 @@
   * [GraphQL CheatSheet](https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6)
   * [How To GraphQL](https://www.howtographql.com/)
   * [GraphQL - Everything You Need To Know](https://javascript.works-hub.com/learn/graphql-everything-you-need-to-know-48719?utm_source=Slack&utm_medium=Blog&utm_campaign=Ben)
+  * [Connecting React with Apollo Client](https://www.apollographql.com/docs/react/essentials/get-started.html)
