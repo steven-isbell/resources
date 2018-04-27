@@ -7,6 +7,9 @@
   * [Node Docs](https://nodejs.org/en/docs/)
   * [The Node Event Loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
   * [Node Child Processes](https://nodejs.org/api/child_process.html)
+  * [Node Event Architecture](https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d)
+  * [Node Streams](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
+  * [Node Child Processes](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
 
 * Node Server Frameworks
 
