@@ -37,6 +37,7 @@
 * Positioning
 
   * [W3Schools Positioning](https://www.w3schools.com/css/css_positioning.asp)
+  * [Positioning Footer](https://matthewjamestaylor.com/blog/keeping-footers-at-the-bottom-of-the-page)
 
   * Flex
 
