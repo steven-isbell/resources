@@ -9,8 +9,9 @@
 
 * Digital Ocean
 
-  * [Hosting a React App on DO](https://github.com/DevMountain/Hosting-React-Digital-Ocean)
+  * [Hosting on DO - A How To Guide](https://github.com/DevMountain/Hosting-Digital-Ocean)
   * [DevMountain Video Walkthrough](https://vimeo.com/154365993)
+  * [Hosting Single or Multiple Sites on DO](https://www.robinwieruch.de/deploy-applications-digital-ocean/)
 
 * AWS
 
