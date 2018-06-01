@@ -40,7 +40,7 @@
 
 * Freelance
 
-  [Rate Calculator](https://doubleyourfreelancing.com/freelance-rate-calculator/)
+  * [Rate Calculator](https://doubleyourfreelancing.com/freelance-rate-calculator/)
 
 * Misc
 
