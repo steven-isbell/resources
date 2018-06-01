@@ -16,6 +16,7 @@
   * [30 Seconds of Code - Useful Snippets](https://github.com/Chalarangelo/30-seconds-of-code)
   * [WTFJS - Exploring JavaScript](https://github.com/denysdovhan/wtfjs)
   * [JavaScript The Right Way](http://jstherightway.org/)
+  * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 * Techniques
 
