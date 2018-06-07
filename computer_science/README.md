@@ -9,6 +9,7 @@
   * [Crash Course In CS - YouTube](https://www.youtube.com/watch?v=O5nskjZ_GoI&index=2&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
   * [Numbers and Bases](https://betterexplained.com/articles/numbers-and-bases/)
   * [Common Data Structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
+  * [OSSU Computer Science](https://github.com/ossu/computer-science)
 
 * Big-O
 
