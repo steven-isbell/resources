@@ -57,6 +57,7 @@
 * Context
 
   * [This - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+  * [This and Object Literals](https://blog.kevinchisholm.com/javascript/context-object-literals/)
 
 * Classes
 
