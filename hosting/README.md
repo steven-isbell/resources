@@ -12,6 +12,7 @@
   * [Hosting on DO - A How To Guide](https://github.com/DevMountain/Hosting-Digital-Ocean)
   * [DevMountain Video Walkthrough](https://vimeo.com/154365993)
   * [Hosting Single or Multiple Sites on DO](https://www.robinwieruch.de/deploy-applications-digital-ocean/)
+  * [Chris Foster - Hosting DO & Nginx](https://www.youtube.com/watch?v=cK6kB7dMVfA)
 
 * AWS
 
