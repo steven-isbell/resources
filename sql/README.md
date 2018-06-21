@@ -1,5 +1,9 @@
 # SQL Resources
 
+* General
+
+  * [Choosing a Data Store](Choosing_a_Data_Store.pdf)
+
 * Techniques
 
   * [PG Exercises](https://pgexercises.com/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning)
