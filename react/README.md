@@ -19,6 +19,7 @@
 * Advanced React
 
   * [Advanced Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
+  * [React Patterns](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f?gi=53b35514fac6)
   * [Advanced React Patterns](https://github.com/steven-isbell/react-patterns)
   * [Context in React](https://reactjs.org/docs/context.html)
   * [New Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
