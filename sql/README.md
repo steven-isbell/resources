@@ -3,6 +3,7 @@
 * General
 
   * [Choosing a Data Store](Choosing_a_Data_Store.pdf)
+  * [General Database Knowledge](Databases.pdf)
 
 * Techniques
 
