@@ -12,6 +12,7 @@
   * [When To Use Component State](https://redux.js.org/docs/faq/OrganizingState.html)
   * [Awesome Redux - Tons of Redux Content](https://github.com/xgrommx/awesome-redux)
   * [Ducks Model](https://medium.com/@scbarrus/the-ducks-file-structure-for-redux-d63c41b7035c)
+  * [Dan Abramov Egghead Series](https://egghead.io/courses/getting-started-with-redux)
 
 * Data Flow
 
