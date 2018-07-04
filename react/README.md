@@ -36,6 +36,7 @@
   * [React Training](https://reacttraining.com/)
   * [Components and Props](https://reactjs.org/docs/components-and-props.html)
   * [Component and Lifecycle Methods](https://reactjs.org/docs/react-component.html)
+  * [React 16 Features](http://blog.teamtreehouse.com/new-features-react-16)
 
 * HTTP
 
