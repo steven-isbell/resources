@@ -51,7 +51,8 @@
 
 * Career Items
 
-  * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  * [Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
+  * [React Developer Roadmap - 2018](https://github.com/kamranahmedse/developer-roadmap)
   * [Rethinking The Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs)
   * [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
   * [The Art of Negotiating](https://theartofcharm.com/podcast-episodes/alex-kouts-art-negotiating-episode-326/)
