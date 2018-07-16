@@ -12,6 +12,7 @@
   * [List of Programming Lists](https://github.com/bnb/awesome-awesome-nodejs)
   * [What The Web Can Do Today](https://whatwebcando.today/)
   * [Can I Use In Browser?](https://caniuse.com/)
+  * [12 Factor App](https://12factor.net/)
 
 * Learning Resources:
 
