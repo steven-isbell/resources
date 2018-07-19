@@ -67,6 +67,10 @@
   * [Classes - JavaScriptInfo](https://javascript.info/class)
   * [A Deep Dive Into Classes - Scotch](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
   * [Classes, Desctructuring, and More](https://github.com/DevMountain/javascript-iii-quokka)
+  
+* Scope
+
+  * [Understanding Scope](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
 
 * Utility Libraries
 
