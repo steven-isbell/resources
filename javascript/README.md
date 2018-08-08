@@ -30,6 +30,7 @@
   * [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   * [Writing Comments](https://css-tricks.com/the-art-of-comments/)
   * [JavaScript Modules](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
+  * [Private Object Properties](https://crockford.com/javascript/private.html)
 
 * Style Guides and (Generally) Best Practices
 
