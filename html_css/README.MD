@@ -55,6 +55,7 @@
     * [CSS Grid Changes Everything](https://www.youtube.com/watch?v=7kVeCqQCxlk)
     * [CSS Grid - Wes Bos](https://cssgrid.io/)
     * [CSS Grid CheatSheet](http://grid.malven.co/)
+    * [Grid Tile Layouts (autofit and minmax)](http://gedd.ski/post/tile-layouts/)
 
 * Design Methodologies/Languages
 
