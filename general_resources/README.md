@@ -13,12 +13,13 @@
   * [What The Web Can Do Today](https://whatwebcando.today/)
   * [Can I Use In Browser?](https://caniuse.com/)
   * [12 Factor App](https://12factor.net/)
+  * [FrontEnd Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 
 * Learning Resources:
 
   * [DevMountain Lecture Videos](https://docs.google.com/spreadsheets/d/1p9EzVLEFGf5Q40oL4gWrRyfPO_DTKO3VIDOT3ZQFvtI/edit#gid=1832617554)
   * [General DevMountain Resource Page](https://resources.devmountain.com/#/)
-  * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2018/)
+  * [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
   * [FreeCodeCamp Guides](https://github.com/freeCodeCamp/guides/tree/master/src/pages)
   * [Mental Models](https://www.farnamstreetblog.com/mental-models/)
   * [p1xt Various Guides](https://github.com/P1xt/p1xt-guides/blob/master/README.md)

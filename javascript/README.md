@@ -19,6 +19,7 @@
   * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
   * [How Does JavaScript Work?](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
   * [TC39 Proposals](https://github.com/tc39/proposals)
+  * [Interactive JavaScript CheatSheet](http://overapi.com/javascript#more)
 
 * Techniques
 
@@ -29,6 +30,7 @@
   * [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   * [Writing Comments](https://css-tricks.com/the-art-of-comments/)
   * [JavaScript Modules](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
+  * [Private Object Properties](https://crockford.com/javascript/private.html)
 
 * Style Guides and (Generally) Best Practices
 
@@ -67,6 +69,10 @@
   * [Classes - JavaScriptInfo](https://javascript.info/class)
   * [A Deep Dive Into Classes - Scotch](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
   * [Classes, Desctructuring, and More](https://github.com/DevMountain/javascript-iii-quokka)
+  
+* Scope
+
+  * [Understanding Scope](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
 
 * Utility Libraries
 
