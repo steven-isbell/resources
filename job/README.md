@@ -29,6 +29,7 @@
   * [How to write a good developer resume in 2017](https://medium.freecodecamp.org/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9)
   * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
   * [30SecondsOfInterviews](https://30secondsofinterviews.org/)
+  * [CS Interview Knowledge Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
 * Meetups
 
