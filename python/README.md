@@ -8,4 +8,5 @@
 * Frameworks
 
   * [Flask Web Framework](http://flask.pocoo.org/docs/1.0/)
+  * [Django Web Framework](https://www.djangoproject.com/)
   
