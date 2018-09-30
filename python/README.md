@@ -9,4 +9,7 @@
 
   * [Flask Web Framework](http://flask.pocoo.org/docs/1.0/)
   * [Django Web Framework](https://www.djangoproject.com/)
-  
+
+* Data Structure and Algorithms
+
+  * [Python Algorithms](https://github.com/TheAlgorithms/Python)
