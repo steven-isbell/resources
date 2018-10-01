@@ -1,4 +1,4 @@
-A Resource for compiling student resources.
+A list of developer resources across the web dev landscape.
 
 To make a contribution please fork this project, make the change, addition, or
 removal and open a Pull Request.
