@@ -4,6 +4,7 @@
 
   * [Choosing a Data Store](Choosing_a_Data_Store.pdf)
   * [General Database Knowledge](Databases.pdf)
+  * [Simple SQL Cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)
 
 * Techniques
 
