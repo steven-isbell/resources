@@ -20,6 +20,7 @@
   * [How Does JavaScript Work?](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
   * [TC39 Proposals](https://github.com/tc39/proposals)
   * [Interactive JavaScript CheatSheet](http://overapi.com/javascript#more)
+  * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
 
 * Techniques
 
