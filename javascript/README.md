@@ -89,3 +89,4 @@
 * Promises
 
   * [Promises CheatSheet](https://frontarm.com/static/media/async-cheatsheet.5d9fee19.png)
+  * [Promises - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
