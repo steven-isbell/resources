@@ -85,3 +85,7 @@
 
   * [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
   * [Eloquent Javascript](http://eloquentjavascript.net/)
+  
+* Promises
+
+  * [Promises CheatSheet](https://frontarm.com/static/media/async-cheatsheet.5d9fee19.png)
