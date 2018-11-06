@@ -7,6 +7,7 @@
 * Basics
 
   * [Git Good Guide](https://github.com/Rasbandit/Git-Good-Guide)
+  * [Git Real - Free Pluralsight Course](https://www.pluralsight.com/courses/code-school-git-real)
 
 * Working As a Group
 
