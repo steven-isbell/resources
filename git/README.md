@@ -8,6 +8,7 @@
 
   * [Git Good Guide](https://github.com/Rasbandit/Git-Good-Guide)
   * [Git Real - Free Pluralsight Course](https://www.pluralsight.com/courses/code-school-git-real)
+  * [Learn Git Branching](https://learngitbranching.js.org/)
 
 * Working As a Group
 
