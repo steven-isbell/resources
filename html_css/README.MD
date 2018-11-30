@@ -72,6 +72,7 @@
   * [MDN - Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
   * [Animations For Beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
   * [25+ Animation Libraries](https://cssauthor.com/css-animation-libraries/)
+  * [Animating 101](https://github.com/cssanimation/css-animation-101)
 
 * Tools
 
