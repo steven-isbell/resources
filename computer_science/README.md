@@ -44,3 +44,13 @@
 
   * [Grokking Algorithms EBook](https://www.manning.com/books/grokking-algorithms)
   * [DS & AlgoClass](https://github.com/kuychaco/algoClass)
+
+* Media
+
+  * [Free Programming Book - GoalKicker](http://books.goalkicker.com/)
+  * [Software Engineering Daily](https://softwareengineeringdaily.com/)
+  * [Big List of Programming Talks By Subject](https://github.com/hellerve/programming-talks)
+  * [CodeNewbie](https://www.codenewbie.org/podcast)
+  * [FullStack Radio](http://www.fullstackradio.com/)
+  * [BaseCS - Basic Computer Science Podcast](https://www.codenewbie.org/basecs)
+
