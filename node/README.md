@@ -10,6 +10,13 @@
   * [Node Event Architecture](https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d)
   * [Node Streams](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
   * [Node Child Processes](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
+  * [Understanding Exports](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+  * [HTTP Headers for Dummies](https://code.tutsplus.com/tutorials/http-headers-for-dummies--net-8039)
+  * [Node Beginner Book](https://www.nodebeginner.org/)
+  * [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+  * [Why Use NodeJS?](https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
+  * [Stackoverflow - Why Node?](https://stackoverflow.com/questions/1884724/what-is-node-js/6782438#6782438)
+  * [NodeJS and MongoDB](https://www.youtube.com/watch?v=CIPbmPUKyMI&list=UUSOH1ts6q_DLeHhNqOpkWSQ)
 
 * Node Server Frameworks
 
@@ -45,10 +52,6 @@
 
     * [Passport Docs](www.passportjs.org/)
     * [Understanding Passport Flow](https://stackoverflow.com/questions/27637609/understanding-passport-serialize-deserialize)
-    * [Understanding Passport Flow 2](http://toon.io/understanding-passportjs-authentication-flow/)
+    * [How Does Passport Work?](http://toon.io/understanding-passportjs-authentication-flow/)
 
   * JWT
-
-* Debugging
-
-    * [Debugging In VSC](https://code.visualstudio.com/docs/editor/debugging)
