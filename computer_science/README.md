@@ -10,6 +10,7 @@
   * [Numbers and Bases](https://betterexplained.com/articles/numbers-and-bases/)
   * [Common Data Structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
   * [OSSU Computer Science](https://github.com/ossu/computer-science)
+  * [Teach Yourself CS](https://teachyourselfcs.com/)
 
 * Big-O
 
