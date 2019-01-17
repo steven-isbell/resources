@@ -3,6 +3,7 @@
 * Misc Resources:
 
   * [JQuery cheat sheet](https://oscarotero.com/jquery/)
+  * [Python cheat sheet](https://www.pythonsheets.com/)
   * [Fake data to play with](https://mockaroo.com/)
   * [See what your website looks like rendered among all major browsers](http://browsershots.org/)
   * [Hipster Ipsum, for when Latin just won't do](https://hipsum.co/?paras=4&type=hipster-centric)
