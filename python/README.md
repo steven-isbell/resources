@@ -15,3 +15,7 @@
 * Data Structure and Algorithms
 
   * [Python Algorithms](https://github.com/TheAlgorithms/Python)
+  
+* Reference Sheets
+
+   * [Python cheat sheet](https://www.pythonsheets.com/)
