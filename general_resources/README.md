@@ -25,6 +25,7 @@
   * [p1xt Various Guides](https://github.com/P1xt/p1xt-guides/blob/master/README.md)
   * [Learn X in Y Minutes](https://learnxinyminutes.com/)
   * [Asking The Right Questions](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)
+  * [10 Steps to Learn Anything Quickly](./10steps.pdf)
 
 * At Least Partially Paid Learning Resources
 
