@@ -14,6 +14,7 @@
   * [Can I Use In Browser?](https://caniuse.com/)
   * [12 Factor App](https://12factor.net/)
   * [FrontEnd Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+  * [HTTP Headers Best Practices](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 
 * Learning Resources:
 
