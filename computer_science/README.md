@@ -11,6 +11,7 @@
   * [Common Data Structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
   * [OSSU Computer Science](https://github.com/ossu/computer-science)
   * [Teach Yourself CS](https://teachyourselfcs.com/)
+  * [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 
 * Big-O
 
