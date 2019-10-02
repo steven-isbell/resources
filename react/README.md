@@ -24,6 +24,7 @@
   - [Context in React](https://reactjs.org/docs/context.html)
   - [New Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
   - [Context, Render Props, Higher Order Components - Steven Isbell Slide Deck](reactTalk.key)
+  - [React and TypeScript](https://basarat.gitbooks.io/typescript/content/docs/jsx/react.html)
 
 - Basics
 
